@@ -1,6 +1,6 @@
 # Choreodaemonic-Body
 
-MovementOSC6 - Update to MovementOSC for Choreodaemonic project
+**MovementOSC6** - Update to MovementOSC for Choreodaemonic project
 
 See movementosc6/README.md for details about what is done and need to dos 
 
@@ -12,8 +12,9 @@ To Run:
 5) check Start OSC
 6) View: graph and datatable for results and terminal console for read out of osc messages 
 
+-----------------
 
-OSCTest4 - Listens at port 7500 and prints incoming OSC messages
+**OSCTest4** - Listens at port 7500 and prints incoming OSC messages
 
 Prep MovementOSC:
 1) download MovementOSC: https://github.com/lichen-community-systems/movementosc/tree/main 
