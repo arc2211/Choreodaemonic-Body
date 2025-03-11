@@ -1,6 +1,16 @@
 # Choreodaemonic-Body
 
-MovementOSC6 - Update to MovementOSC (https://github.com/lichen-community-systems/movementosc/) that makes more of a user interface and changes the OSC messages to only be with selected keypoints. 
+MovementOSC6 - Update to MovementOSC for Choreodaemonic project
+
+See movementosc6/README.md for details about what is done and need to dos 
+
+To Run: 
+1) download movementosc6
+2) npm install
+3) npm start
+4) scroll down and check boxes of keypoints desired (note: neck and pelvis not yet working)
+5) check Start OSC
+6) View: graph and datatable for results and terminal console for read out of osc messages 
 
 
 OSCTest4 - Listens at port 7500 and prints incoming OSC messages
