@@ -14,7 +14,7 @@ To Run:
 
 -----------------
 
-**OSCTest4** - Listens at port 7500 and prints incoming OSC messages
+**OSCTest4** - Listens at port 7500 and prints incoming OSC messages. Example of how to link between movementosc6 UI in JS to Tighe's robot controller code in C++
 
 Prep MovementOSC:
 1) download MovementOSC: https://github.com/lichen-community-systems/movementosc/tree/main 
