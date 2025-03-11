@@ -1,5 +1,8 @@
 # Choreodaemonic-Body
 
+MovementOSC6 - Update to MovementOSC (https://github.com/lichen-community-systems/movementosc/) that makes more of a user interface and changes the OSC messages to only be with selected keypoints. 
+
+
 OSCTest4 - Listens at port 7500 and prints incoming OSC messages
 
 Prep MovementOSC:
