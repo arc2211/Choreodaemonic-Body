@@ -10,6 +10,7 @@ NEED TO DO:
 - add neck and pelvis logic from MovementOSC2
 - add options for normalization !  
 - ask Tighe if he needs a frame output and confirm OSC message works in C++ side (in main.js posePrefix = `/pose/${i}/` always returns /pose/0/... not sure if even needed?)
+- error handling: if x || y == NaN, keep at last value (or some other solution for NaN) 
 - do this with streamed video and not webcam
 - make UI pretty 
 
